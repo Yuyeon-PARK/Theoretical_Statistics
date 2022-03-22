@@ -1,5 +1,3 @@
-¿Ã≈ÎHW1
-
 gdp<-read.csv("gdp.csv")
 suicide<-read.csv("suicide.csv")
 happiness<-read.csv("happiness.csv")
